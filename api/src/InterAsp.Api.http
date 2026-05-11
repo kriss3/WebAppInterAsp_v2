@@ -1,0 +1,6 @@
+@InterAsp.Api_HostAddress = http://localhost:5120
+
+GET {{InterAsp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
